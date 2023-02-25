@@ -17,9 +17,3 @@ A NoSQL database provides a mechanism for storage and retrieval of data that is 
 | 6-update | Write a script that adds a new attribute to a document in the collection school |
 | 7-delete | Write a script that deletes all documents with name="Holberton school" in the collection school |
 | 8-all.py | Write a Python function that lists all documents in a collection |
-
-
-
-## Author
-
-* Abinet Tesfu  
